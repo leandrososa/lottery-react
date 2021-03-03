@@ -45,7 +45,7 @@ class App extends Component {
       from: accounts[0]
     });
 
-    this.setState({message: 'A winner has been picked!'});
+    this.setState({message: 'A winner has been picked y3ah!'});
   }
 
   render() {
